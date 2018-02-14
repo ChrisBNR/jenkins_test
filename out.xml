@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<assemblies>
+   <assembly failed="9" name="Pano Replicator Continuous Integration Test" passed="1" run-date="2018-02-14" run-time="12:54:49" total="10">
+      <collection failed="9" name="Pano Replicator Continuous Integration Test" passed="1" time="104.011041164" total="10">
+         <test method="TestRunner._check_blob_existence" name="Pano Blob Event 1" result="Fail" type="bnr_analytics_data_services.tests.panos.pano_replicator_integration_test_controller">Pano expected to upload.</test>
+         <test method="TestRunner._check_blob_existence" name="Pano Blob Event 2" result="Fail" type="bnr_analytics_data_services.tests.panos.pano_replicator_integration_test_controller">Pano expected to upload.</test>
+         <test method="TestRunner._check_blob_existence" name="Pano Blob Event 3" result="Fail" type="bnr_analytics_data_services.tests.panos.pano_replicator_integration_test_controller">Pano expected to upload.</test>
+         <test method="TestRunner._check_blob_existence" name="Pano Blob Event 4" result="Fail" type="bnr_analytics_data_services.tests.panos.pano_replicator_integration_test_controller">Pano expected to upload.</test>
+         <test method="TestRunner._check_blob_existence" name="Pano Blob Event 5" result="Pass" type="bnr_analytics_data_services.tests.panos.pano_replicator_integration_test_controller">Pano not expected to upload.</test>
+         <test method="TestRunner._check_blob_existence" name="Pano Blob Event 6" result="Fail" type="bnr_analytics_data_services.tests.panos.pano_replicator_integration_test_controller">Pano expected to upload.</test>
+         <test method="TestRunner._check_blob_existence" name="Pano Blob Event 7" result="Fail" type="bnr_analytics_data_services.tests.panos.pano_replicator_integration_test_controller">Pano expected to upload.</test>
+         <test method="TestRunner._check_blob_existence" name="Pano Blob Event 8" result="Fail" type="bnr_analytics_data_services.tests.panos.pano_replicator_integration_test_controller">Pano expected to upload.</test>
+         <test method="TestRunner._check_blob_existence" name="Pano Blob Event 9" result="Fail" type="bnr_analytics_data_services.tests.panos.pano_replicator_integration_test_controller">Pano expected to upload.</test>
+         <test method="TestRunner._check_blob_existence" name="Pano Blob Event 10" result="Fail" type="bnr_analytics_data_services.tests.panos.pano_replicator_integration_test_controller">Pano expected to upload.</test>
+      </collection>
+   </assembly>
+</assemblies>
