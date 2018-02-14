@@ -11,7 +11,7 @@ pipeline {
     }
     post {
       always {
-        xUnit './out.xml'
+        junit './out.xml'
     }
   }
 }
