@@ -11,7 +11,7 @@ pipeline {
     }
     post {
       always {
-        junit '**/out.xml'
+        junit 'out.xml'
         // step([$class: 'XUnitBuilder',
                 // thresholds: [[$class: 'FailedThreshold', unstableThreshold: '1']],
                 // tools: [[$class: 'JUnitType', pattern: '**/out.xml']]])
