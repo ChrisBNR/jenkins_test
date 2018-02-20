@@ -1,7 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" ?> 
-   <testsuites id="20140612_170519" name="New_configuration (14/06/12 17:05:19)" tests="225" failures="1262" time="0.001">
-      <testsuite id="codereview.cobol.analysisProvider" name="COBOL Code Review" tests="45" failures="17" time="0.001">
-         <testcase id="codereview.cobol.rules.ProgramIdRule" name="Use a program name that matches the source file name" time="0.001">
-    </testcase>
-  </testsuite>
+<?xml version="1.0" ?>
+<testsuites failures="134" id="201542_1234" name="Pano Replicator Continuous Integration Test" tests="232" time="0.001">
+   <testsuite failures="10" id="test.pano.replicator" name="Integration Tests" tests="24" time="0.001">
+      <testcase id="test.pano.replicator.test" name="Test upload of pano to the azure cloud" time="0.01"/>
+      <testcase id="test.pano.replicator.test" name="Test upload of pano to the azure cloud" time="0.01"/>
+      <testcase id="test.pano.replicator.test" name="Test upload of pano to the azure cloud" time="0.01"/>
+      <testcase id="test.pano.replicator.test" name="Test upload of pano to the azure cloud" time="0.01"/>
+      <testcase id="test.pano.replicator.test" name="Test upload of pano to the azure cloud" time="0.01"/>
+      <testcase id="test.pano.replicator.test" name="Test upload of pano to the azure cloud" time="0.01"/>
+      <testcase id="test.pano.replicator.test" name="Test upload of pano to the azure cloud" time="0.01"/>
+      <testcase id="test.pano.replicator.test" name="Test upload of pano to the azure cloud" time="0.01"/>
+      <testcase id="test.pano.replicator.test" name="Test upload of pano to the azure cloud" time="0.01"/>
+      <testcase id="test.pano.replicator.test" name="Test upload of pano to the azure cloud" time="0.01"/>
+   </testsuite>
 </testsuites>
+
