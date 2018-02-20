@@ -10,10 +10,10 @@ pipeline {
                 '''
             }
         }
-    }
-    post {
-        always {
-            junit '**/*out.xml'
+        stage('Test') {
+            steps {
+                junit '**/out.xml'
+            }
         }
     }
 }
