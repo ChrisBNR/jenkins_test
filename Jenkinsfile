@@ -1,17 +1,19 @@
 pipeline {
-    agent {
-        docker { image 'python:3.6-slim-stretch' }
-    }
+    agent any
     stages {
-        stage('Test') {
+        stage('Build') {
             steps {
-                sh 'python --version'
+                sh 'echo "Hello World"'
+                sh '''
+                    echo "Multiline shell steps works too"
+                    ls -lah
+                '''
             }
         }
     }
     post {
-      always {
-        junit '**/*out.xml'
+        always {
+            junit '**/*out.xml'
+        }
     }
-  }
 }
