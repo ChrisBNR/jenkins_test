@@ -1,19 +1,17 @@
 pipeline {
-    agent any
-    stages {
-        stage('Build') {
-            steps {
-                sh 'echo "Hello World"'
-                sh '''
-                    echo "Multiline shell steps works too"
-                    ls -lah
-                '''
-            }
+   agent any
+   stages {
+     stage('Build and Test') {
+        steps {
+            sh 'build here...'
+            sh 'run tests here if you like ...'
         }
-        stage('Test') {
-            steps {
-                junit '**out.xml'
-            }
-        }
-    }
+     }
+   }
+
+   post {
+      always {
+        junit '**/*.xml'
+      }
+   } 
 }
