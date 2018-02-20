@@ -1,13 +1,15 @@
 <?xml version="1.0" ?>
-<assemblies>
-   <assembly failed="0" name="Pano Replicator Continuous Integration Test" passed="5" run-date="2018-02-14" run-time="14:22:45" total="5">
-      <collection failed="0" name="Pano Replicator Continuous Integration Test" passed="5" time="67.7748808861" total="5">
-         <test method="TestRunner._check_blob_existence" name="Pano Blob Event 1" result="Pass" type="bnr_analytics_data_services.tests.panos.pano_replicator_integration_test_controller">Pano expected to upload.</test>
-         <test method="TestRunner._check_blob_existence" name="Pano Blob Event 2" result="Pass" type="bnr_analytics_data_services.tests.panos.pano_replicator_integration_test_controller">Pano expected to upload.</test>
-         <test method="TestRunner._check_blob_existence" name="Pano Blob Event 3" result="Pass" type="bnr_analytics_data_services.tests.panos.pano_replicator_integration_test_controller">Pano expected to upload.</test>
-         <test method="TestRunner._check_blob_existence" name="Pano Blob Event 4" result="Pass" type="bnr_analytics_data_services.tests.panos.pano_replicator_integration_test_controller">Pano expected to upload.</test>
-         <test method="TestRunner._check_blob_existence" name="Pano Blob Event 5" result="Pass" type="bnr_analytics_data_services.tests.panos.pano_replicator_integration_test_controller">Pano not expected to upload.</test>
-      </collection>
-   </assembly>
-</assemblies>
-
+<testsuites failures="0" name="Pano Replicator Continuous Integration Test -- 2018-02-20" time="10:17:33">
+   <testsuite time="74.5902349949">
+      <testcase id="0" name="Pano upload test"/>
+      <testcase id="1" name="Pano upload test"/>
+      <testcase id="2" name="Pano upload test"/>
+      <testcase id="3" name="Pano upload test"/>
+      <testcase id="4" name="Pano upload test"/>
+      <testcase id="5" name="Pano upload test"/>
+      <testcase id="6" name="Pano upload test"/>
+      <testcase id="7" name="Pano upload test"/>
+      <testcase id="8" name="Pano upload test"/>
+      <testcase id="9" name="Pano upload test"/>
+   </testsuite>
+</testsuites>
