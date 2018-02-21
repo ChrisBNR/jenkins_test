@@ -1,15 +1,36 @@
 <?xml version="1.0" ?>
 <testsuites failures="134" id="201542_1234" name="Pano Replicator Continuous Integration Test" tests="232" time="0.001">
    <testsuite failures="10" id="test.pano.replicator" name="Integration Tests" tests="24" time="0.001">
-      <testcase id="Pano 0" name="run_id: BNR-walmart_9105-20180221_101312EST-gaetaplus4-official_run - aisle_id: S.46" time="0.01"/>
-      <testcase id="Pano 1" name="run_id: BNR-walmart_0982-20180221_101312EST-gaetaplus4-official_run - aisle_id: F.374" time="0.01"/>
-      <testcase id="Pano 2" name="run_id: BNR-walmart_7920-20180221_101312EST-gaetaplus4-official_run - aisle_id: O.72" time="0.01"/>
-      <testcase id="Pano 3" name="run_id: BNR-walmart_0435-20180221_101312EST-gaetaplus4-official_run - aisle_id: K.322" time="0.01"/>
-      <testcase id="Pano 4" name="run_id: BNR-walmart_7889-20180221_101312EST-gaetaplus4-official_run - aisle_id: X.396" time="0.01"/>
-      <testcase id="Pano 5" name="run_id: BNR-walmart_8134-20180221_101312EST-gaetaplus4-official_run - aisle_id: H.50" time="0.01"/>
-      <testcase id="Pano 6" name="run_id: BNR-walmart_4461-20180221_101312EST-gaetaplus4-official_run - aisle_id: Z.342" time="0.01"/>
-      <testcase id="Pano 7" name="run_id: BNR-walmart_5757-20180221_101312EST-gaetaplus4-official_run - aisle_id: D.128" time="0.01"/>
-      <testcase id="Pano 8" name="run_id: BNR-walmart_8828-20180221_101312EST-gaetaplus4-official_run - aisle_id: T.2" time="0.01"/>
-      <testcase id="Pano 9" name="run_id: BNR-walmart_1581-20180221_101312EST-gaetaplus4-official_run - aisle_id: R.272" time="0.01"/>
+      <testcase id="Pano 0" name="run_id: BNR-walmart_9540-20180221_101312EST-gaetaplus4-official_run - aisle_id: A.304" time="0.01">
+         <failure message="Pano upload failed."/>
+      </testcase>
+      <testcase id="Pano 1" name="run_id: BNR-walmart_9400-20180221_101312EST-gaetaplus4-official_run - aisle_id: G.142" time="0.01">
+         <failure message="Pano upload failed."/>
+      </testcase>
+      <testcase id="Pano 2" name="run_id: BNR-walmart_3423-20180221_101312EST-gaetaplus4-official_run - aisle_id: O.262" time="0.01">
+         <failure message="Pano upload failed."/>
+      </testcase>
+      <testcase id="Pano 3" name="run_id: BNR-walmart_5414-20180221_101312EST-gaetaplus4-official_run - aisle_id: V.48" time="0.01">
+         <failure message="Pano upload failed."/>
+      </testcase>
+      <testcase id="Pano 4" name="run_id: BNR-walmart_1422-20180221_101312EST-gaetaplus4-official_run - aisle_id: A.342" time="0.01">
+         <failure message="Pano upload failed."/>
+      </testcase>
+      <testcase id="Pano 5" name="run_id: BNR-walmart_5817-20180221_101312EST-gaetaplus4-official_run - aisle_id: Q.308" time="0.01">
+         <failure message="Pano upload failed."/>
+      </testcase>
+      <testcase id="Pano 6" name="run_id: BNR-walmart_7546-20180221_101312EST-gaetaplus4-official_run - aisle_id: Q.290" time="0.01">
+         <failure message="Pano upload failed."/>
+      </testcase>
+      <testcase id="Pano 7" name="run_id: BNR-walmart_0018-20180221_101312EST-gaetaplus4-official_run - aisle_id: G.42" time="0.01">
+         <failure message="Pano upload failed."/>
+      </testcase>
+      <testcase id="Pano 8" name="run_id: BNR-walmart_3026-20180221_101312EST-gaetaplus4-official_run - aisle_id: J.24" time="0.01">
+         <failure message="Pano upload failed."/>
+      </testcase>
+      <testcase id="Pano 9" name="run_id: BNR-walmart_7996-20180221_101312EST-gaetaplus4-official_run - aisle_id: Y.124" time="0.01">
+         <failure message="Pano upload failed."/>
+      </testcase>
    </testsuite>
 </testsuites>
+
