@@ -1,15 +1,15 @@
 <?xml version="1.0" ?>
-<testsuites failures="0" id="201542_1234" name="Pano Replicator Continuous Integration Test" tests="10" time="0.001">
-   <testsuite failures="0" id="test.pano.replicator" name="Integration Tests" tests="10" time="0.001">
-      <testcase id="Pano 0" name="run_id: BNR-walmart_3351-20180223_101312EST-gaetaplus4-official_run - aisle_id: P.326" time="0.01"/>
-      <testcase id="Pano 1" name="run_id: BNR-walmart_3199-20180223_101312EST-gaetaplus4-official_run - aisle_id: D.72" time="0.01"/>
-      <testcase id="Pano 2" name="run_id: BNR-walmart_8392-20180223_101312EST-gaetaplus4-official_run - aisle_id: M.106" time="0.01"/>
-      <testcase id="Pano 3" name="run_id: BNR-walmart_6470-20180223_101312EST-gaetaplus4-official_run - aisle_id: U.114" time="0.01"/>
-      <testcase id="Pano 4" name="run_id: BNR-walmart_5335-20180223_101312EST-gaetaplus4-official_run - aisle_id: Z.18" time="0.01"/>
-      <testcase id="Pano 5" name="run_id: BNR-walmart_0851-20180223_101312EST-gaetaplus4-official_run - aisle_id: J.34" time="0.01"/>
-      <testcase id="Pano 6" name="run_id: BNR-walmart_8591-20180223_101312EST-gaetaplus4-official_run - aisle_id: B.0" time="0.01"/>
-      <testcase id="Pano 7" name="run_id: BNR-walmart_2916-20180223_101312EST-gaetaplus4-official_run - aisle_id: E.152" time="0.01"/>
-      <testcase id="Pano 8" name="run_id: BNR-walmart_0419-20180223_101312EST-gaetaplus4-official_run - aisle_id: O.246" time="0.01"/>
-      <testcase id="Pano 9" name="run_id: BNR-walmart_1452-20180223_101312EST-gaetaplus4-official_run - aisle_id: F.82" time="0.01"/>
+<testsuites failures="0" id="201542_1234" name="Pano Replicator Continuous Integration Test" tests="10" time="69.2072591782">
+   <testsuite failures="0" id="test.pano.replicator" name="Integration Tests" tests="10" time="69.2072591782">
+      <testcase id="Pano 0" name="run_id: BNR-walmart_4907-20180223_101312EST-gaetaplus4-official_run - aisle_id: B.278" time="6.92072591782"/>
+      <testcase id="Pano 1" name="run_id: BNR-walmart_6791-20180223_101312EST-gaetaplus4-official_run - aisle_id: C.384" time="6.92072591782"/>
+      <testcase id="Pano 2" name="run_id: BNR-walmart_5055-20180223_101312EST-gaetaplus4-official_run - aisle_id: O.378" time="6.92072591782"/>
+      <testcase id="Pano 3" name="run_id: BNR-walmart_6848-20180223_101312EST-gaetaplus4-official_run - aisle_id: N.4" time="6.92072591782"/>
+      <testcase id="Pano 4" name="run_id: BNR-walmart_3789-20180223_101312EST-gaetaplus4-official_run - aisle_id: Z.106" time="6.92072591782"/>
+      <testcase id="Pano 5" name="run_id: BNR-walmart_5413-20180223_101312EST-gaetaplus4-official_run - aisle_id: J.0" time="6.92072591782"/>
+      <testcase id="Pano 6" name="run_id: BNR-walmart_6006-20180223_101312EST-gaetaplus4-official_run - aisle_id: H.8" time="6.92072591782"/>
+      <testcase id="Pano 7" name="run_id: BNR-walmart_5905-20180223_101312EST-gaetaplus4-official_run - aisle_id: T.96" time="6.92072591782"/>
+      <testcase id="Pano 8" name="run_id: BNR-walmart_9269-20180223_101312EST-gaetaplus4-official_run - aisle_id: U.8" time="6.92072591782"/>
+      <testcase id="Pano 9" name="run_id: BNR-walmart_5660-20180223_101312EST-gaetaplus4-official_run - aisle_id: X.278" time="6.92072591782"/>
    </testsuite>
 </testsuites>
